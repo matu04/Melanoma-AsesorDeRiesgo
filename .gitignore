@@ -1,0 +1,14 @@
+# data & artifacts
+data/
+artifacts/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# notebooks
+.ipynb_checkpoints/
+
+# mac
+.DS_Store
